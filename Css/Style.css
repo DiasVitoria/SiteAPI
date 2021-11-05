@@ -46,30 +46,7 @@
   margin: 0;
   padding: 7px 5px;
 }
-/*--------------------------------------DROPDOWN-------------------------------------- */
 
-/* .wrapperMenu {
-  position: relative;
-}
-
-.wrapperDropdown ul li a {
-  display: block;
-  font-weight: normal;
-}
-
-.dropdown {
-  position: absolute;
-  display: none;
-  margin-top: 6.5px;
-}
-
-.wrapperDropdown:hover > .dropdown {
-  z-index: 1;
-  height: 272px;
-  width: 50%;
-  background-color: #ccc;
-  display: block;
-} */
 
 /*--------------------------------------INFORMAÇÕES DA FATEC - HOME-------------------------------------- */
 .grid {
@@ -77,7 +54,7 @@
 }
 
 .grid-template-columns {
-  grid-template-columns: 600px 500px;
+  grid-template-columns: 50% 50%;
 }
 
 .fatecAbout {
